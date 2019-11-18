@@ -15,7 +15,7 @@ function App() {
             <li><s>Conditional Rendering</s></li>
             <li><s>Props</s></li>
             <li><s>State</s></li>
-            <li>Lifecycle Methods</li>
+            <li><s>Lifecycle Methods</s> <code>Maybe?</code></li>
           </ul>
       </header>
     </div>
