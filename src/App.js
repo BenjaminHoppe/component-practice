@@ -1,17 +1,20 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Toggle from './Toggle';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
           <ul>
+            <Toggle>
+              <h1>Hey</h1>
+            </Toggle>
             <p>Make a component that uses:</p>
-            <li>Conditional Rendering</li>
-            <li>Props</li>
-            <li>State</li>
+            <li><s>Conditional Rendering</s></li>
+            <li><s>Props</s></li>
+            <li><s>State</s></li>
             <li>Lifecycle Methods</li>
           </ul>
       </header>
