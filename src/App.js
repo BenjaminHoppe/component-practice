@@ -15,7 +15,8 @@ function App() {
             <li><s>Conditional Rendering</s></li>
             <li><s>Props</s></li>
             <li><s>State</s></li>
-            <li><s>Lifecycle Methods</s> <code>Maybe?</code></li>
+            <li>Use <code>fetch</code> & <code>componentDidMount</code></li>
+            <li>To make toggle render data from <a target="_blank" href="https://openweathermap.org/api">here</a></li>
           </ul>
       </header>
     </div>
